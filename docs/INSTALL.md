@@ -66,4 +66,4 @@ source ~/.profile
 cd path/to/AB3DMOT
 source env/bin/activate
 ```
-You are now done with the installation! Feel free to play on the supported datasets ([KITTI](docs/KITTI.md), [nuScenes](docs/nuScenes.md))!
+You are now done with the installation! Feel free to play on the supported datasets ([KITTI](/docs/KITTI.md), [nuScenes](/docs/nuScenes.md))!
